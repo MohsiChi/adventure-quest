@@ -95,4 +95,4 @@ java -cp out adventurequest.Main
 
 ## Author
 
-Mohsi Chi — BNBU Computer Science and Technology, Class of 2029
+Mohsi Chi — BU Computer Science and Technology, Class of 2029
