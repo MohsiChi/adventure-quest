@@ -1,6 +1,6 @@
 # Adventure Quest
 
-A Java Swing RPG game built as the final project for the **Object-Oriented Programming** course at BNBU (Spring 2026).
+A Java Swing RPG game built as the final project for the **Object-Oriented Programming** course (Spring 2026).
 
 ## Game Overview
 
